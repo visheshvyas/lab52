@@ -16,5 +16,5 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
-- script: cat file1
+- script: type file1
   displayName: 'Show File Data'
